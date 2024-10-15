@@ -175,6 +175,7 @@ Here are the results for some of the tested models:
 ## Best Performing Model
 
 The best performing model is the `RandomForestClassifier` with the original dataset (no sampling). It achieved the highest F1-Score and PR-AUC, indicating strong overall performance. This model is saved as `models/new_best_model.pkl`.
+
 ![result](result.png)
 
 After testing the best model on the test dataset,we can see the following result:
